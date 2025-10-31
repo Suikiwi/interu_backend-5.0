@@ -128,4 +128,4 @@ class Reporte(models.Model):
     publicacion = models.ForeignKey(Publicacion, on_delete=models.CASCADE)
 
 
-#hola
+#Fernanda
